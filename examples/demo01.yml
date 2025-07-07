@@ -6,7 +6,7 @@ connectors:
   X2:
     type: Molex KK 254
     subtype: female
-    pinlabels: [GND, RX, TX]
+    pinlabels: [GND, RX, TX, a1, a2]
 
 cables:
   W1:
